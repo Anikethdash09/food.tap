@@ -21,6 +21,6 @@ Welcome to the Food App project! This Java Full Stack application allows you to 
 - Spring
 - Hibernate
 - MySQL
-- HTML
+- HTML5
 - CSS
 - JavaScript
