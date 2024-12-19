@@ -9,8 +9,6 @@ Welcome to the Food App project! This Java Full Stack application allows you to 
 - New restaurant can be added
 - Order food
 - Rate of food, Cost and timing 
-- Pay on any mode
-- Get delivery time
 - Give us feed back
 
 # Technologies Used
